@@ -1,1 +1,1 @@
-test2
+- added "close after inject" to misc section
